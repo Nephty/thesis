@@ -1,0 +1,114 @@
+[
+    {
+        "id": 2558148,
+        "project_id": 1839,
+        "action_name": "accepted",
+        "target_id": 103338,
+        "target_iid": 4,
+        "target_type": "MergeRequest",
+        "author_id": 24,
+        "target_title": "ci: Switch to GNOME GitLab mirror of ci-templates",
+        "created_at": "2024-12-27T14:38:06.232Z",
+        "author": {
+            "id": 24,
+            "username": "jensgeorg",
+            "name": "Jens Georg",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/14bcdfade2e56af80df96833a3b8134c57cf8691d8e1eed087a0afee9c04b879?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/jensgeorg"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "jensgeorg"
+    },
+    {
+        "id": 2558147,
+        "project_id": 1839,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 24,
+        "target_title": null,
+        "created_at": "2024-12-27T14:38:05.751Z",
+        "author": {
+            "id": 24,
+            "username": "jensgeorg",
+            "name": "Jens Georg",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/14bcdfade2e56af80df96833a3b8134c57cf8691d8e1eed087a0afee9c04b879?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/jensgeorg"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 2,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "89cb27748de60658f4fe3a38eb941d064c0ab8ca",
+            "commit_to": "8dd1cf53263a8347276b98fe1028e632fe50f851",
+            "ref": "master",
+            "commit_title": "Merge branch 'ci-fdo-citpl-mirror' into 'master'",
+            "ref_count": null
+        },
+        "author_username": "jensgeorg"
+    },
+    {
+        "id": 2557864,
+        "project_id": 1839,
+        "action_name": "opened",
+        "target_id": 103338,
+        "target_iid": 4,
+        "target_type": "MergeRequest",
+        "author_id": 2461,
+        "target_title": "ci: Switch to GNOME GitLab mirror of ci-templates",
+        "created_at": "2024-12-27T09:24:47.521Z",
+        "author": {
+            "id": 2461,
+            "username": "barthalion",
+            "name": "Bart Piotrowski",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/2461/avatar.png",
+            "web_url": "https://gitlab.gnome.org/barthalion"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "barthalion"
+    },
+    {
+        "id": 2557835,
+        "project_id": 1839,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 2461,
+        "target_title": null,
+        "created_at": "2024-12-27T09:21:42.699Z",
+        "author": {
+            "id": 2461,
+            "username": "barthalion",
+            "name": "Bart Piotrowski",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/2461/avatar.png",
+            "web_url": "https://gitlab.gnome.org/barthalion"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "branch",
+            "commit_from": null,
+            "commit_to": "e26400fa4f45607dde6b3fa6e00bdb5cea56f282",
+            "ref": "ci-fdo-citpl-mirror",
+            "commit_title": "ci: Switch to GNOME GitLab mirror of ci-templates",
+            "ref_count": null
+        },
+        "author_username": "barthalion"
+    }
+]

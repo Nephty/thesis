@@ -1,0 +1,35 @@
+[
+    {
+        "id": 2511249,
+        "project_id": 1709,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-11-02T22:46:06.757Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "8ec0a35e12047ccf256b3951897c701661ddb8af",
+            "commit_to": "dd633f80913ae637d6f496bae1b7bac8c297860c",
+            "ref": "master",
+            "commit_title": "Add Belarusian translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2558664,
+        "project_id": 1504,
+        "action_name": "opened",
+        "target_id": 103386,
+        "target_iid": 21,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "appdata: Fix bugtracker URL",
+        "created_at": "2024-12-28T11:12:10.275Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2551384,
+        "project_id": 1504,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 390,
+        "target_title": null,
+        "created_at": "2024-12-17T12:25:46.446Z",
+        "author": {
+            "id": 390,
+            "username": "robertroth",
+            "name": "Robert Roth",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/390/avatar.png",
+            "web_url": "https://gitlab.gnome.org/robertroth"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "cf8ab82414255dee10f2bdccf190f9698998b3c9",
+            "commit_to": "3aef1edee9e4c315ea84a825a4936c4db2a038fc",
+            "ref": "master",
+            "commit_title": "Added CI changes required for release-service",
+            "ref_count": null
+        },
+        "author_username": "robertroth"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 2502430,
+        "project_id": 1513,
+        "action_name": "opened",
+        "target_id": 209107,
+        "target_iid": 59,
+        "target_type": "Issue",
+        "author_id": 111914,
+        "target_title": "Fails to build in gcc 14",
+        "created_at": "2024-10-23T10:43:49.572Z",
+        "author": {
+            "id": 111914,
+            "username": "sid",
+            "name": "Sid",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/111914/avatar.png",
+            "web_url": "https://gitlab.gnome.org/sid"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "sid"
+    }
+]

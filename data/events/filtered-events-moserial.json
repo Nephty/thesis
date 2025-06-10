@@ -1,0 +1,25 @@
+[
+    {
+        "id": 2479319,
+        "project_id": 1761,
+        "action_name": "left",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 47136,
+        "target_title": null,
+        "created_at": "2024-10-01T00:05:50.179Z",
+        "author": {
+            "id": 47136,
+            "username": "mjc",
+            "name": "Michael J. Chudobiak",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/26b894d456f50f6ef48688fb29f1396385065f80ecfcbf223cea4c42ef41aefe?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/mjc"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "mjc"
+    }
+]

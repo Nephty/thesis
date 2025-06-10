@@ -1,0 +1,76 @@
+[
+    {
+        "id": 2559519,
+        "project_id": 1635,
+        "action_name": "opened",
+        "target_id": 103444,
+        "target_iid": 21,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "Remove appmenu",
+        "created_at": "2024-12-29T16:16:05.530Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2527576,
+        "project_id": 1635,
+        "action_name": "commented on",
+        "target_id": 2278186,
+        "target_iid": 2278186,
+        "target_type": "Note",
+        "author_id": 149523,
+        "target_title": "Writing files over GVFS/SFTP mount fails silently",
+        "created_at": "2024-11-17T20:25:16.187Z",
+        "note": {
+            "id": 2278186,
+            "type": null,
+            "body": "Ran into the same bug on a recent version (EasyTAG 2.4.3 on EndeavourOS) and lost a couple of hours understanding what was wrong (I thought it was related to charset encoding or accentuated filenames).\nI went around the old fashioned way : \"sudo mount.cifs //server/path /mnt/path -o rw,userid,groupid\"\nI understand it's not related to EasyTAG, but I don't understand if the gvfs issue explains the lack of an error message or the fact EasyTAG fails when writing (and if there is hope for a correction)\nBy the way, when trying to save, I can clearly heard the sound of my harddrive, so I guess something is happening yet",
+            "attachment": null,
+            "author": {
+                "id": 149523,
+                "username": "Ge0",
+                "name": "Geoffroy Giraux",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/59c96258a5e6016feb58b273ae7611217442cf6e110068334d5ffef388fea0ca?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/Ge0"
+            },
+            "created_at": "2024-11-17T20:25:15.629Z",
+            "updated_at": "2024-11-17T20:25:15.629Z",
+            "system": false,
+            "noteable_id": 68041,
+            "noteable_type": "Issue",
+            "project_id": 1635,
+            "resolvable": false,
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 28,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 149523,
+            "username": "Ge0",
+            "name": "Geoffroy Giraux",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/59c96258a5e6016feb58b273ae7611217442cf6e110068334d5ffef388fea0ca?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/Ge0"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "Ge0"
+    }
+]

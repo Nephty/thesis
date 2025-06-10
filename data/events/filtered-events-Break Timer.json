@@ -1,0 +1,35 @@
+[
+    {
+        "id": 2534164,
+        "project_id": 1826,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-11-24T11:17:09.542Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "bb81c75b531798008577f09219244bbb35a39404",
+            "commit_to": "32c73d44080cc0e49b6ece5c901f3abe5626df10",
+            "ref": "master",
+            "commit_title": "Update Turkish translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    }
+]

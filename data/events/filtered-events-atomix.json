@@ -1,0 +1,160 @@
+[
+    {
+        "id": 2559461,
+        "project_id": 813,
+        "action_name": "accepted",
+        "target_id": 103434,
+        "target_iid": 10,
+        "target_type": "MergeRequest",
+        "author_id": 390,
+        "target_title": "Don't override default decoration layout",
+        "created_at": "2024-12-29T14:53:26.617Z",
+        "author": {
+            "id": 390,
+            "username": "robertroth",
+            "name": "Robert Roth",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/390/avatar.png",
+            "web_url": "https://gitlab.gnome.org/robertroth"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "robertroth"
+    },
+    {
+        "id": 2559460,
+        "project_id": 813,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 390,
+        "target_title": null,
+        "created_at": "2024-12-29T14:53:26.340Z",
+        "author": {
+            "id": 390,
+            "username": "robertroth",
+            "name": "Robert Roth",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/390/avatar.png",
+            "web_url": "https://gitlab.gnome.org/robertroth"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "6b51ac76c5a2aac788d9fadb46fe640e3d7b192f",
+            "commit_to": "de4fd5d9e0981dc4d6463a928f5e3e6a6e2c9cfb",
+            "ref": "master",
+            "commit_title": "Don't override default decoration layout",
+            "ref_count": null
+        },
+        "author_username": "robertroth"
+    },
+    {
+        "id": 2559457,
+        "project_id": 813,
+        "action_name": "accepted",
+        "target_id": 103387,
+        "target_iid": 9,
+        "target_type": "MergeRequest",
+        "author_id": 390,
+        "target_title": "appdata: Fix bugtracker URL",
+        "created_at": "2024-12-29T14:52:33.981Z",
+        "author": {
+            "id": 390,
+            "username": "robertroth",
+            "name": "Robert Roth",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/390/avatar.png",
+            "web_url": "https://gitlab.gnome.org/robertroth"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "robertroth"
+    },
+    {
+        "id": 2559456,
+        "project_id": 813,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 390,
+        "target_title": null,
+        "created_at": "2024-12-29T14:52:33.097Z",
+        "author": {
+            "id": 390,
+            "username": "robertroth",
+            "name": "Robert Roth",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/390/avatar.png",
+            "web_url": "https://gitlab.gnome.org/robertroth"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "48c84e3224aad205c4abb7cd52304c0abbb41a36",
+            "commit_to": "6b51ac76c5a2aac788d9fadb46fe640e3d7b192f",
+            "ref": "master",
+            "commit_title": "appdata: Fix bugtracker URL",
+            "ref_count": null
+        },
+        "author_username": "robertroth"
+    },
+    {
+        "id": 2559414,
+        "project_id": 813,
+        "action_name": "opened",
+        "target_id": 103434,
+        "target_iid": 10,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "Don't override default decoration layout",
+        "created_at": "2024-12-29T13:38:42.819Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2558667,
+        "project_id": 813,
+        "action_name": "opened",
+        "target_id": 103387,
+        "target_iid": 9,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "appdata: Fix bugtracker URL",
+        "created_at": "2024-12-28T11:14:11.167Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    }
+]

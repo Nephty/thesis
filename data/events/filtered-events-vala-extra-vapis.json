@@ -1,0 +1,48 @@
+[
+    {
+        "id": 2544215,
+        "project_id": 1746,
+        "action_name": "opened",
+        "target_id": 211704,
+        "target_iid": 25,
+        "target_type": "Issue",
+        "author_id": 49549,
+        "target_title": "Bindings for libxmlrpc-c",
+        "created_at": "2024-12-09T04:34:09.412Z",
+        "author": {
+            "id": 49549,
+            "username": "lwildberg",
+            "name": "Lorenz Wildberg",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/b0f6cf7cc53eeb21fad6f9cf7b284b82ab3a73a62eb0f1ec91d595e5a7673bc7?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/lwildberg"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "lwildberg"
+    },
+    {
+        "id": 2544214,
+        "project_id": 1746,
+        "action_name": "opened",
+        "target_id": 211704,
+        "target_iid": 25,
+        "target_type": "Issue",
+        "author_id": 49549,
+        "target_title": "Bindings for libxmlrpc-c",
+        "created_at": "2024-12-09T04:32:14.904Z",
+        "author": {
+            "id": 49549,
+            "username": "lwildberg",
+            "name": "Lorenz Wildberg",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/b0f6cf7cc53eeb21fad6f9cf7b284b82ab3a73a62eb0f1ec91d595e5a7673bc7?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/lwildberg"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "lwildberg"
+    }
+]

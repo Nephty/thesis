@@ -1,0 +1,68 @@
+[
+    {
+        "id": 2508877,
+        "project_id": 1070,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-10-30T18:10:00.473Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "93a1ac15a77311f717670862702a2738965ca914",
+            "commit_to": "6865a8a2128d6157224d9c8ba31f56eb48419c19",
+            "ref": "master",
+            "commit_title": "Update Dutch translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2490341,
+        "project_id": 1070,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-10-12T00:20:16.525Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "afa3de3070840aba55ac3809d3a884076c44cd54",
+            "commit_to": "93a1ac15a77311f717670862702a2738965ca914",
+            "ref": "master",
+            "commit_title": "Add Interlingua translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    }
+]

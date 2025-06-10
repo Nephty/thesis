@@ -1,0 +1,170 @@
+[
+    {
+        "id": 2559508,
+        "project_id": 257,
+        "action_name": "opened",
+        "target_id": 103443,
+        "target_iid": 55,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "Migrate from appmenu to in-app menu",
+        "created_at": "2024-12-29T15:58:42.377Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2516680,
+        "project_id": 257,
+        "action_name": "closed",
+        "target_id": 183080,
+        "target_iid": 158,
+        "target_type": "Issue",
+        "author_id": 241,
+        "target_title": "Consider Archiving Recipes",
+        "created_at": "2024-11-07T00:26:19.521Z",
+        "author": {
+            "id": 241,
+            "username": "hub",
+            "name": "Hubert Figui\u00e8re",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/fdb4b80e48103ebb250a98b0c148221031fa0bb9678b7bc655c57b0bffc49763?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/hub"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "hub"
+    },
+    {
+        "id": 2516662,
+        "project_id": 257,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 241,
+        "target_title": null,
+        "created_at": "2024-11-06T23:58:59.021Z",
+        "author": {
+            "id": 241,
+            "username": "hub",
+            "name": "Hubert Figui\u00e8re",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/fdb4b80e48103ebb250a98b0c148221031fa0bb9678b7bc655c57b0bffc49763?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/hub"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "c7d5712b40cac8825d8e185d525ef3fad550cb9d",
+            "commit_to": "1004b39081b3fbef66ee723c1c5b72ec4c713a80",
+            "ref": "wip/hub/flatpak-fixes",
+            "commit_title": "ci: Fix dependencies",
+            "ref_count": null
+        },
+        "author_username": "hub"
+    },
+    {
+        "id": 2516658,
+        "project_id": 257,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 241,
+        "target_title": null,
+        "created_at": "2024-11-06T23:50:27.975Z",
+        "author": {
+            "id": 241,
+            "username": "hub",
+            "name": "Hubert Figui\u00e8re",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/fdb4b80e48103ebb250a98b0c148221031fa0bb9678b7bc655c57b0bffc49763?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/hub"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "a2258cd80b451b67d9725ad2df6d8308bfdab5c9",
+            "commit_to": "c7d5712b40cac8825d8e185d525ef3fad550cb9d",
+            "ref": "wip/hub/flatpak-fixes",
+            "commit_title": "Fix flatpak manifest",
+            "ref_count": null
+        },
+        "author_username": "hub"
+    },
+    {
+        "id": 2516657,
+        "project_id": 257,
+        "action_name": "opened",
+        "target_id": 101404,
+        "target_iid": 54,
+        "target_type": "MergeRequest",
+        "author_id": 241,
+        "target_title": "Fix flatpak manifest",
+        "created_at": "2024-11-06T23:50:03.050Z",
+        "author": {
+            "id": 241,
+            "username": "hub",
+            "name": "Hubert Figui\u00e8re",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/fdb4b80e48103ebb250a98b0c148221031fa0bb9678b7bc655c57b0bffc49763?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/hub"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "hub"
+    },
+    {
+        "id": 2516656,
+        "project_id": 257,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 241,
+        "target_title": null,
+        "created_at": "2024-11-06T23:49:44.464Z",
+        "author": {
+            "id": 241,
+            "username": "hub",
+            "name": "Hubert Figui\u00e8re",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/fdb4b80e48103ebb250a98b0c148221031fa0bb9678b7bc655c57b0bffc49763?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/hub"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "branch",
+            "commit_from": null,
+            "commit_to": "a2258cd80b451b67d9725ad2df6d8308bfdab5c9",
+            "ref": "wip/hub/flatpak-fixes",
+            "commit_title": "Fix flaptak manifest",
+            "ref_count": null
+        },
+        "author_username": "hub"
+    }
+]

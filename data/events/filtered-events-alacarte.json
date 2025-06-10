@@ -1,0 +1,167 @@
+[
+    {
+        "id": 2534202,
+        "project_id": 1777,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-11-24T12:09:33.237Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "c2451c9453d51c0490c5ae55b67df823c710525f",
+            "commit_to": "cd01a16b67d0ac53cc8b7ba4e5372e0e090e357a",
+            "ref": "master",
+            "commit_title": "Update Turkish translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2502867,
+        "project_id": 1777,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-10-23T19:12:33.475Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "65595915ba3fa4b31bd7859a2abbbf20cc5ceda4",
+            "commit_to": "c2451c9453d51c0490c5ae55b67df823c710525f",
+            "ref": "master",
+            "commit_title": "Update Belarusian translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2490541,
+        "project_id": 1777,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-10-12T11:58:19.320Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "8754781c05cdb7d56538d49f7956093920a803a7",
+            "commit_to": "65595915ba3fa4b31bd7859a2abbbf20cc5ceda4",
+            "ref": "master",
+            "commit_title": "Update Hebrew translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2482267,
+        "project_id": 1777,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 28,
+        "target_title": null,
+        "created_at": "2024-10-03T15:00:09.722Z",
+        "author": {
+            "id": 28,
+            "username": "muktupavels",
+            "name": "Alberts Muktup\u0101vels",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/28/avatar.png",
+            "web_url": "https://gitlab.gnome.org/muktupavels"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "tag",
+            "commit_from": null,
+            "commit_to": "b68b2de68916ce4656a18de5c024d62f65bbe32e",
+            "ref": "3.54.0",
+            "commit_title": "bump version to 3.54.0, update NEWS",
+            "ref_count": null
+        },
+        "author_username": "muktupavels"
+    },
+    {
+        "id": 2482266,
+        "project_id": 1777,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 28,
+        "target_title": null,
+        "created_at": "2024-10-03T15:00:00.966Z",
+        "author": {
+            "id": 28,
+            "username": "muktupavels",
+            "name": "Alberts Muktup\u0101vels",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/28/avatar.png",
+            "web_url": "https://gitlab.gnome.org/muktupavels"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "42fd0b69b349e041b4537262ad3618e95e090709",
+            "commit_to": "8754781c05cdb7d56538d49f7956093920a803a7",
+            "ref": "master",
+            "commit_title": "bump version to 3.54.0, update NEWS",
+            "ref_count": null
+        },
+        "author_username": "muktupavels"
+    }
+]

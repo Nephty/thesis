@@ -1,0 +1,68 @@
+[
+    {
+        "id": 2498022,
+        "project_id": 1519,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 75,
+        "target_title": null,
+        "created_at": "2024-10-18T21:55:45.186Z",
+        "author": {
+            "id": 75,
+            "username": "chergert",
+            "name": "Christian Hergert",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/75/avatar.png",
+            "web_url": "https://gitlab.gnome.org/chergert"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "56dc3497d57a934e148f68cc92cf48a9fe8dd2c6",
+            "commit_to": "ee619790f755061410136933991bc33cb88ebea7",
+            "ref": "main",
+            "commit_title": ".gitlab-ci.yml: bump fedora version",
+            "ref_count": null
+        },
+        "author_username": "chergert"
+    },
+    {
+        "id": 2497990,
+        "project_id": 1519,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 75,
+        "target_title": null,
+        "created_at": "2024-10-18T21:33:44.982Z",
+        "author": {
+            "id": 75,
+            "username": "chergert",
+            "name": "Christian Hergert",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/75/avatar.png",
+            "web_url": "https://gitlab.gnome.org/chergert"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 2,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "603284da889ec1d0fe9506c28a2377df585f0803",
+            "commit_to": "56dc3497d57a934e148f68cc92cf48a9fe8dd2c6",
+            "ref": "main",
+            "commit_title": "Post-release version bump",
+            "ref_count": null
+        },
+        "author_username": "chergert"
+    }
+]

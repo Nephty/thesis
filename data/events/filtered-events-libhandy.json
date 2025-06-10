@@ -1,0 +1,48 @@
+[
+    {
+        "id": 2505368,
+        "project_id": 11489,
+        "action_name": "closed",
+        "target_id": 765,
+        "target_iid": 4,
+        "target_type": "Milestone",
+        "author_id": 126,
+        "target_title": "1.x",
+        "created_at": "2024-10-27T09:35:04.195Z",
+        "author": {
+            "id": 126,
+            "username": "aklapper",
+            "name": "Andre Klapper",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/126/avatar.png",
+            "web_url": "https://gitlab.gnome.org/aklapper"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "aklapper"
+    },
+    {
+        "id": 2505367,
+        "project_id": 11489,
+        "action_name": "closed",
+        "target_id": 762,
+        "target_iid": 1,
+        "target_type": "Milestone",
+        "author_id": 126,
+        "target_title": "1.0",
+        "created_at": "2024-10-27T09:34:50.270Z",
+        "author": {
+            "id": 126,
+            "username": "aklapper",
+            "name": "Andre Klapper",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/126/avatar.png",
+            "web_url": "https://gitlab.gnome.org/aklapper"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "aklapper"
+    }
+]

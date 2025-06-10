@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2557875,
+        "project_id": 1591,
+        "action_name": "opened",
+        "target_id": 103349,
+        "target_iid": 14,
+        "target_type": "MergeRequest",
+        "author_id": 2461,
+        "target_title": "ci: Switch to GNOME GitLab mirror of ci-templates",
+        "created_at": "2024-12-27T09:25:50.086Z",
+        "author": {
+            "id": 2461,
+            "username": "barthalion",
+            "name": "Bart Piotrowski",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/2461/avatar.png",
+            "web_url": "https://gitlab.gnome.org/barthalion"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "barthalion"
+    },
+    {
+        "id": 2557850,
+        "project_id": 1591,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 2461,
+        "target_title": null,
+        "created_at": "2024-12-27T09:23:12.290Z",
+        "author": {
+            "id": 2461,
+            "username": "barthalion",
+            "name": "Bart Piotrowski",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/2461/avatar.png",
+            "web_url": "https://gitlab.gnome.org/barthalion"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "branch",
+            "commit_from": null,
+            "commit_to": "92ec3ac191c034c62b8fa385aef7b0dcbd17268d",
+            "ref": "ci-fdo-citpl-mirror",
+            "commit_title": "ci: Switch to GNOME GitLab mirror of ci-templates",
+            "ref_count": null
+        },
+        "author_username": "barthalion"
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "id": 2555788,
+        "project_id": 1182,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 1797,
+        "target_title": null,
+        "created_at": "2024-12-23T15:11:17.631Z",
+        "author": {
+            "id": 1797,
+            "username": "mkasik",
+            "name": "Marek Ka\u0161\u00edk",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/ecc8f71a9d1f1ed9f89d367c8202ce82626cbd137f47ad4408faa21e4b34b1f8?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/mkasik"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "6cfdc840159bb349310c3b81cd2df949f1522760",
+            "commit_to": "46ca0beb9b5bf8c9b245a596231016bcca9baf6b",
+            "ref": "master",
+            "commit_title": "frdp-session: Queue draw area from main thread",
+            "ref_count": null
+        },
+        "author_username": "mkasik"
+    },
+    {
+        "id": 2537829,
+        "project_id": 1182,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 487,
+        "target_title": null,
+        "created_at": "2024-11-29T13:37:43.474Z",
+        "author": {
+            "id": 487,
+            "username": "felipeborges",
+            "name": "Felipe Borges",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/487/avatar.png",
+            "web_url": "https://gitlab.gnome.org/felipeborges"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 41,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "c1f244189dbd59a95bfc2605fd082d1a4ce8d62d",
+            "commit_to": "3bc0e7b93a510a6cb4868eee7d070dd26fe280bd",
+            "ref": "fix-typo-in-warning",
+            "commit_title": "frdp-session: Fix warning message typo",
+            "ref_count": null
+        },
+        "author_username": "felipeborges"
+    },
+    {
+        "id": 2537825,
+        "project_id": 1182,
+        "action_name": "opened",
+        "target_id": 102354,
+        "target_iid": 30,
+        "target_type": "MergeRequest",
+        "author_id": 487,
+        "target_title": "frdp-session: Fix warning message typo",
+        "created_at": "2024-11-29T13:36:00.834Z",
+        "author": {
+            "id": 487,
+            "username": "felipeborges",
+            "name": "Felipe Borges",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/487/avatar.png",
+            "web_url": "https://gitlab.gnome.org/felipeborges"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "felipeborges"
+    },
+    {
+        "id": 2537824,
+        "project_id": 1182,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 487,
+        "target_title": null,
+        "created_at": "2024-11-29T13:35:46.656Z",
+        "author": {
+            "id": 487,
+            "username": "felipeborges",
+            "name": "Felipe Borges",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/487/avatar.png",
+            "web_url": "https://gitlab.gnome.org/felipeborges"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "branch",
+            "commit_from": null,
+            "commit_to": "c1f244189dbd59a95bfc2605fd082d1a4ce8d62d",
+            "ref": "fix-typo-in-warning",
+            "commit_title": "frdp-session: Fix warning message typo",
+            "ref_count": null
+        },
+        "author_username": "felipeborges"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id": 2482738,
+        "project_id": 1774,
+        "action_name": "opened",
+        "target_id": 207862,
+        "target_iid": 67,
+        "target_type": "Issue",
+        "author_id": 147795,
+        "target_title": "New release?",
+        "created_at": "2024-10-04T05:03:15.680Z",
+        "author": {
+            "id": 147795,
+            "username": "adrianwong",
+            "name": "Adrian Wong",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/3aad87fc538440b6744a738cb4bd0a1ef77b52e204dcee59f82aa3a836f97fff?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/adrianwong"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "adrianwong"
+    }
+]

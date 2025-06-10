@@ -1,0 +1,101 @@
+[
+    {
+        "id": 2526900,
+        "project_id": 1705,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-11-16T16:33:02.702Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "d426512458ebfcf7c2d22bd8f83eb889db1156ac",
+            "commit_to": "eaa6c9e1ea8fa27aafc5101d3506e9f2fcc9e0b0",
+            "ref": "master",
+            "commit_title": "Update Serbian (Latin) translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2526899,
+        "project_id": 1705,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-11-16T16:32:31.921Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "5691b4cf1549bb9b176d4640617d958b490bd4e6",
+            "commit_to": "d426512458ebfcf7c2d22bd8f83eb889db1156ac",
+            "ref": "master",
+            "commit_title": "Update Serbian translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    },
+    {
+        "id": 2491713,
+        "project_id": 1705,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 52,
+        "target_title": null,
+        "created_at": "2024-10-13T22:45:50.263Z",
+        "author": {
+            "id": 52,
+            "username": "translations",
+            "name": "Translations User D-L",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/5852634e5d77b1cd571a13650a25d4787c7b63c2e5fdd7281ee900b8c405d7a9?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/translations"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "ffbd43b8c1c155475773e26eb465655e7ce36929",
+            "commit_to": "5691b4cf1549bb9b176d4640617d958b490bd4e6",
+            "ref": "master",
+            "commit_title": "Update Brazilian Portuguese translation",
+            "ref_count": null
+        },
+        "author_username": "translations"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 2544850,
+        "project_id": 1620,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 9908,
+        "target_title": null,
+        "created_at": "2024-12-09T18:40:31.716Z",
+        "author": {
+            "id": 9908,
+            "username": "jirka",
+            "name": "Jiri (George) Lebl",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1e6828c5315e7484762b88d7a4524bb16c60dab4dc0676a057a8c55186a3f414?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/jirka"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "841e59839a6bc0b05a82616ec621b2191126c86a",
+            "commit_to": "af521c637456efb4606bafc811368926bc1cb4e9",
+            "ref": "master",
+            "commit_title": "* lib/number_theory.gel: Update with the newest Mersenne prime",
+            "ref_count": null
+        },
+        "author_username": "jirka"
+    }
+]

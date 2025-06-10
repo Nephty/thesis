@@ -1,0 +1,25 @@
+[
+    {
+        "id": 2535763,
+        "project_id": 414,
+        "action_name": "opened",
+        "target_id": 211139,
+        "target_iid": 17,
+        "target_type": "Issue",
+        "author_id": 67929,
+        "target_title": "RFE: Support multiple ticket caches and principals",
+        "created_at": "2024-11-26T09:58:44.441Z",
+        "author": {
+            "id": 67929,
+            "username": "pemensik",
+            "name": "Petr Men\u0161\u00edk",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/616a7256648d4f465bd90578afb7389fa2e05990e7870dd3421e27bf35229afa?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/pemensik"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "pemensik"
+    }
+]

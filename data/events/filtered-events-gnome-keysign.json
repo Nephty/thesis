@@ -1,0 +1,71 @@
+[
+    {
+        "id": 2537907,
+        "project_id": 12,
+        "action_name": "opened",
+        "target_id": 102359,
+        "target_iid": 29,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "Install symbolic icon",
+        "created_at": "2024-11-29T15:28:52.574Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2537878,
+        "project_id": 12,
+        "action_name": "opened",
+        "target_id": 102357,
+        "target_iid": 28,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "app: Set prgname and icon for the window",
+        "created_at": "2024-11-29T14:35:01.229Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    },
+    {
+        "id": 2537877,
+        "project_id": 12,
+        "action_name": "opened",
+        "target_id": 102356,
+        "target_iid": 27,
+        "target_type": "MergeRequest",
+        "author_id": 8815,
+        "target_title": "QRCode: Hide fullscreen window only if it's still visible",
+        "created_at": "2024-11-29T14:34:53.247Z",
+        "author": {
+            "id": 8815,
+            "username": "City-busz",
+            "name": "Ball\u00f3 Gy\u00f6rgy",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/c3e11b753a7a2814a02d7b599d7bec55bcf90207b7e063e4152ac1184b0b6837?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/City-busz"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "City-busz"
+    }
+]

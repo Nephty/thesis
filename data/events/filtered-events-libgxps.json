@@ -1,0 +1,352 @@
+[
+    {
+        "id": 2491941,
+        "project_id": 1642,
+        "action_name": "accepted",
+        "target_id": 100072,
+        "target_iid": 8,
+        "target_type": "MergeRequest",
+        "author_id": 955,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T08:59:45.655Z",
+        "author": {
+            "id": 955,
+            "username": "icq",
+            "name": "Ignacio Casal Quinteiro",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/icq"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "icq"
+    },
+    {
+        "id": 2491940,
+        "project_id": 1642,
+        "action_name": "pushed to",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 955,
+        "target_title": null,
+        "created_at": "2024-10-14T08:59:45.509Z",
+        "author": {
+            "id": 955,
+            "username": "icq",
+            "name": "Ignacio Casal Quinteiro",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/icq"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "pushed",
+            "ref_type": "branch",
+            "commit_from": "665dc29aff9120f10322721303d7ca91761c5d02",
+            "commit_to": "48363d65af57ebc5c098bd5f21110bc4b88fb00b",
+            "ref": "master",
+            "commit_title": "converter pdf: add option for stdout output",
+            "ref_count": null
+        },
+        "author_username": "icq"
+    },
+    {
+        "id": 2491939,
+        "project_id": 1642,
+        "action_name": "approved",
+        "target_id": 100072,
+        "target_iid": 8,
+        "target_type": "MergeRequest",
+        "author_id": 955,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T08:59:37.053Z",
+        "author": {
+            "id": 955,
+            "username": "icq",
+            "name": "Ignacio Casal Quinteiro",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/icq"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "icq"
+    },
+    {
+        "id": 2491913,
+        "project_id": 1642,
+        "action_name": "approved",
+        "target_id": 100072,
+        "target_iid": 8,
+        "target_type": "MergeRequest",
+        "author_id": 1561,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T08:13:23.902Z",
+        "author": {
+            "id": 1561,
+            "username": "carlosgc",
+            "name": "Carlos Garcia Campos",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/07ff56141e4d5f93582ce702eaaa2bcca1b0914cc145fbe4d0ca4adde749988f?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/carlosgc"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "carlosgc"
+    },
+    {
+        "id": 2491912,
+        "project_id": 1642,
+        "action_name": "commented on",
+        "target_id": 2246467,
+        "target_iid": 2246467,
+        "target_type": "DiffNote",
+        "author_id": 1561,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T08:13:23.600Z",
+        "note": {
+            "id": 2246467,
+            "type": "DiffNote",
+            "body": "```suggestion:-2+0\n        GOptionContext *context;\n        GOptionGroup   *option_group;\n        GError         *error = NULL;\n```",
+            "attachment": null,
+            "author": {
+                "id": 1561,
+                "username": "carlosgc",
+                "name": "Carlos Garcia Campos",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/07ff56141e4d5f93582ce702eaaa2bcca1b0914cc145fbe4d0ca4adde749988f?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/carlosgc"
+            },
+            "created_at": "2024-10-14T08:13:23.519Z",
+            "updated_at": "2024-10-14T08:56:02.430Z",
+            "system": false,
+            "noteable_id": 100072,
+            "noteable_type": "MergeRequest",
+            "project_id": 1642,
+            "commit_id": null,
+            "position": {
+                "base_sha": "665dc29aff9120f10322721303d7ca91761c5d02",
+                "start_sha": "665dc29aff9120f10322721303d7ca91761c5d02",
+                "head_sha": "62958a31165e06f0ea7bb277efc2945f33dce543",
+                "old_path": "tools/gxps-pdf-converter.c",
+                "new_path": "tools/gxps-pdf-converter.c",
+                "position_type": "text",
+                "old_line": null,
+                "new_line": 58,
+                "line_range": {
+                    "start": {
+                        "line_code": "2444b4a082f51d73b8b12f9c1b19920b346ecf5b_37_56",
+                        "type": "new",
+                        "old_line": null,
+                        "new_line": 56
+                    },
+                    "end": {
+                        "line_code": "2444b4a082f51d73b8b12f9c1b19920b346ecf5b_37_58",
+                        "type": "new",
+                        "old_line": null,
+                        "new_line": 58
+                    }
+                }
+            },
+            "resolvable": true,
+            "resolved": true,
+            "resolved_by": {
+                "id": 4289,
+                "username": "ignazp",
+                "name": "ignazp",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/f7f1bb1ebc0b034f05465a66b8408ccff4e857254afe3fb47fd28afa17d0713d?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/ignazp"
+            },
+            "resolved_at": "2024-10-14T08:56:02.430Z",
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 8,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 1561,
+            "username": "carlosgc",
+            "name": "Carlos Garcia Campos",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/07ff56141e4d5f93582ce702eaaa2bcca1b0914cc145fbe4d0ca4adde749988f?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/carlosgc"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "carlosgc"
+    },
+    {
+        "id": 2491891,
+        "project_id": 1642,
+        "action_name": "commented on",
+        "target_id": 2246441,
+        "target_iid": 2246441,
+        "target_type": "Note",
+        "author_id": 955,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T07:45:57.946Z",
+        "note": {
+            "id": 2246441,
+            "type": null,
+            "body": "@carlosg to make our code simpler and more reliable would be good to get this in. From my side the patch from @ignazp looks good",
+            "attachment": null,
+            "author": {
+                "id": 955,
+                "username": "icq",
+                "name": "Ignacio Casal Quinteiro",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/icq"
+            },
+            "created_at": "2024-10-14T07:45:57.415Z",
+            "updated_at": "2024-10-14T07:45:57.415Z",
+            "system": false,
+            "noteable_id": 100072,
+            "noteable_type": "MergeRequest",
+            "project_id": 1642,
+            "resolvable": false,
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 8,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 955,
+            "username": "icq",
+            "name": "Ignacio Casal Quinteiro",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/icq"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "icq"
+    },
+    {
+        "id": 2491858,
+        "project_id": 1642,
+        "action_name": "commented on",
+        "target_id": 2246418,
+        "target_iid": 2246418,
+        "target_type": "DiffNote",
+        "author_id": 955,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-14T07:18:52.441Z",
+        "note": {
+            "id": 2246418,
+            "type": "DiffNote",
+            "body": "Writes",
+            "attachment": null,
+            "author": {
+                "id": 955,
+                "username": "icq",
+                "name": "Ignacio Casal Quinteiro",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/icq"
+            },
+            "created_at": "2024-10-14T07:18:51.653Z",
+            "updated_at": "2024-10-14T07:45:18.067Z",
+            "system": false,
+            "noteable_id": 100072,
+            "noteable_type": "MergeRequest",
+            "project_id": 1642,
+            "commit_id": null,
+            "position": {
+                "base_sha": "665dc29aff9120f10322721303d7ca91761c5d02",
+                "start_sha": "665dc29aff9120f10322721303d7ca91761c5d02",
+                "head_sha": "a037d160f92fb5ad064068e772afde4e859212c2",
+                "old_path": "tools/gxps-pdf-converter.c",
+                "new_path": "tools/gxps-pdf-converter.c",
+                "position_type": "text",
+                "old_line": null,
+                "new_line": 46,
+                "line_range": {
+                    "start": {
+                        "line_code": "2444b4a082f51d73b8b12f9c1b19920b346ecf5b_37_46",
+                        "type": "new",
+                        "old_line": null,
+                        "new_line": 46
+                    },
+                    "end": {
+                        "line_code": "2444b4a082f51d73b8b12f9c1b19920b346ecf5b_37_46",
+                        "type": "new",
+                        "old_line": null,
+                        "new_line": 46
+                    }
+                }
+            },
+            "resolvable": true,
+            "resolved": true,
+            "resolved_by": {
+                "id": 955,
+                "username": "icq",
+                "name": "Ignacio Casal Quinteiro",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/icq"
+            },
+            "resolved_at": "2024-10-14T07:45:18.067Z",
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 8,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 955,
+            "username": "icq",
+            "name": "Ignacio Casal Quinteiro",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/1c2e40c971c045ea406016c67dd479219d4c096d8beda1541ac0330d834ce5f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/icq"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "icq"
+    },
+    {
+        "id": 2489858,
+        "project_id": 1642,
+        "action_name": "opened",
+        "target_id": 100072,
+        "target_iid": 8,
+        "target_type": "MergeRequest",
+        "author_id": 4289,
+        "target_title": "converter pdf: add option for stdout output",
+        "created_at": "2024-10-11T13:43:42.822Z",
+        "author": {
+            "id": 4289,
+            "username": "ignazp",
+            "name": "ignazp",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/f7f1bb1ebc0b034f05465a66b8408ccff4e857254afe3fb47fd28afa17d0713d?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/ignazp"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "ignazp"
+    }
+]

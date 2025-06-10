@@ -1,0 +1,53 @@
+[
+    {
+        "id": 2490187,
+        "project_id": 1667,
+        "action_name": "commented on",
+        "target_id": 2245090,
+        "target_iid": 2245090,
+        "target_type": "Note",
+        "author_id": 89371,
+        "target_title": "GTK4 port",
+        "created_at": "2024-10-11T19:24:33.072Z",
+        "note": {
+            "id": 2245090,
+            "type": null,
+            "body": "Now with libadwaita",
+            "attachment": null,
+            "author": {
+                "id": 89371,
+                "username": "vixalien",
+                "name": "Shema Angelo Verlain",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://secure.gravatar.com/avatar/059b9d81da07cc63bcaff0201ff52a4c4c1ff14b4185e80622ac4db69a27c72c?s=80&d=identicon",
+                "web_url": "https://gitlab.gnome.org/vixalien"
+            },
+            "created_at": "2024-10-11T19:24:32.453Z",
+            "updated_at": "2024-10-11T19:24:32.453Z",
+            "system": false,
+            "noteable_id": 97255,
+            "noteable_type": "MergeRequest",
+            "project_id": 1667,
+            "resolvable": false,
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 9,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 89371,
+            "username": "vixalien",
+            "name": "Shema Angelo Verlain",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/059b9d81da07cc63bcaff0201ff52a4c4c1ff14b4185e80622ac4db69a27c72c?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/vixalien"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "vixalien"
+    }
+]

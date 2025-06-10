@@ -1,0 +1,122 @@
+[
+    {
+        "id": 2543984,
+        "project_id": 415,
+        "action_name": "opened",
+        "target_id": 102673,
+        "target_iid": 46,
+        "target_type": "MergeRequest",
+        "author_id": 139385,
+        "target_title": "Add flag to differentiate between virtual and physical network interfaces",
+        "created_at": "2024-12-08T19:23:32.495Z",
+        "author": {
+            "id": 139385,
+            "username": "luizgfc",
+            "name": "Luiz  Fran\u00e7a",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/366918477ca0f4c9e2855127338c76086674ede6266970be124ec958028ed1f3?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/luizgfc"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "luizgfc"
+    },
+    {
+        "id": 2519013,
+        "project_id": 415,
+        "action_name": "commented on",
+        "target_id": 2270694,
+        "target_iid": 2270694,
+        "target_type": "Note",
+        "author_id": 3143,
+        "target_title": "Documentation suggests calling glibtop_init is optional, but it isn't",
+        "created_at": "2024-11-09T13:57:20.477Z",
+        "note": {
+            "id": 2270694,
+            "type": null,
+            "body": "Hi.\n\nI am reviving this old thread since I can still reproduce the initial report on OpenBSD.\nBut also now, I am seeing the same with the system-monitor extension from gnome-shell-extensions that makes GNOME Shell crash when enabling extensions.\n\n`glibtop(c=57582): [ERROR] glibtop_get_swap: Function not implemented\ngnome-session-binary[34511]: WARNING: Application 'org.gnome.Shell.desktop' killed by signal 6`\n\n```\n(gdb) bt\n#0  thrkill () at /tmp/-:2\n#1  0x2f6e569838dc742a in ?? ()\n#2  0x000003b7b576f2fb in _libc_abort () at /usr/src/lib/libc/stdlib/abort.c:51\n#3  0x000003b730cc8b7f in glibtop_error_io_vr () from /usr/local/lib/libgtop-2.0.so.10.1\n#4  0x000003b730cc8d99 in glibtop_error_io_r () from /usr/local/lib/libgtop-2.0.so.10.1\n#5  0x000003b730cc61bd in glibtop_get_swap_l () from /usr/local/lib/libgtop-2.0.so.10.1\n#6  0x000003b7e0b3b266 in ffi_call_unix64 () from /usr/local/lib/libffi.so.2.1\n#7  0x000003b7e0b3aa9f in ffi_call_int () from /usr/local/lib/libffi.so.2.1\n#8  0x000003b7e0b3a705 in ffi_call () from /usr/local/lib/libffi.so.2.1\n#9  0x000003b7d1723792 in Gjs::Function::invoke(JSContext*, JS::CallArgs const&, JS::Handle<JSObject*>, _GIArgument*)\n    () from /usr/local/lib/libgjs.so.6.3\n#10 0x000003b7d1724231 in Gjs::Function::call(JSContext*, unsigned int, JS::Value*) ()\n   from /usr/local/lib/libgjs.so.6.3\n#11 0x000003b7a8f79fb6 in js::InternalCallOrConstruct(JSContext*, JS::CallArgs const&, js::MaybeConstruct, js::CallReason) () from /usr/local/lib/libmozjs-128.so.0.0\n#12 0x000003b7a8f8449a in js::Interpret(JSContext*, js::RunState&) () from /usr/local/lib/libmozjs-128.so.0.0\n#13 0x000003b7a8f7995d in js::RunScript(JSContext*, js::RunState&) () from /usr/local/lib/libmozjs-128.so.0.0\n#14 0x000003b7a8f79d60 in js::InternalCallOrConstruct(JSContext*, JS::CallArgs const&, js::MaybeConstruct, js::CallReason) () from /usr/local/lib/libmozjs-128.so.0.0\n#15 0x000003b7a8f7a314 in js::Call(JSContext*, JS::Handle<JS::Value>, JS::Handle<JS::Value>, js::AnyInvokeArgs const&, JS::MutableHandle<JS::Value>, js::CallReason) () from /usr/local/lib/libmozjs-128.so.0.0\n#16 0x000003b7a90290fc in JS_CallFunctionValue(JSContext*, JS::Handle<JSObject*>, JS::Handle<JS::Value>, JS::HandleValueArray const&, JS::MutableHandle<JS::Value>) () from /usr/local/lib/libmozjs-128.so.0.0\n#17 0x000003b7d171b7fc in Gjs::Closure::invoke(JS::Handle<JSObject*>, JS::HandleValueArray const&, JS::MutableHandle<JS::Value>) () from /usr/local/lib/libgjs.so.6.3\n#18 0x000003b7d174b644 in Gjs::Closure::marshal(_GValue*, unsigned int, _GValue const*, void*, void*) ()\n   from /usr/local/lib/libgjs.so.6.3\n#19 0x000003b7894f7440 in g_closure_invoke () from /usr/local/lib/libgobject-2.0.so.4200.20\n#20 0x000003b7895141ec in signal_emit_unlocked_R.123 () from /usr/local/lib/libgobject-2.0.so.4200.20\n#21 0x000003b789511dfe in signal_emit_valist_unlocked () from /usr/local/lib/libgobject-2.0.so.4200.20\n#22 0x000003b78951261f in g_signal_emit () from /usr/local/lib/libgobject-2.0.so.4200.20\n#23 0x000003b789503da3 in g_object_dispatch_properties_changed () from /usr/local/lib/libgobject-2.0.so.4200.20\n#24 0x000003b7894fe1af in g_object_notify_queue_thaw () from /usr/local/lib/libgobject-2.0.so.4200.20\n#25 0x000003b7894ff506 in g_object_setv () from /usr/local/lib/libgobject-2.0.so.4200.20\n#26 0x000003b7895007fb in g_object_set_property () from /usr/local/lib/libgobject-2.0.so.4200.20\n```",
+            "attachment": null,
+            "author": {
+                "id": 3143,
+                "username": "ajacoutot",
+                "name": "Antoine Jacoutot",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/3143/avatar.png",
+                "web_url": "https://gitlab.gnome.org/ajacoutot"
+            },
+            "created_at": "2024-11-09T13:55:58.515Z",
+            "updated_at": "2024-11-09T13:55:58.515Z",
+            "system": false,
+            "noteable_id": 68697,
+            "noteable_type": "Issue",
+            "project_id": 415,
+            "resolvable": false,
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 44,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 3143,
+            "username": "ajacoutot",
+            "name": "Antoine Jacoutot",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/3143/avatar.png",
+            "web_url": "https://gitlab.gnome.org/ajacoutot"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "ajacoutot"
+    },
+    {
+        "id": 2515632,
+        "project_id": 415,
+        "action_name": "opened",
+        "target_id": 209895,
+        "target_iid": 74,
+        "target_type": "Issue",
+        "author_id": 115829,
+        "target_title": "./example/df returns severely wrong data on Darwin",
+        "created_at": "2024-11-06T07:32:49.906Z",
+        "author": {
+            "id": 115829,
+            "username": "Torrekie",
+            "name": "Torrekie Gen",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/40071744518f1451d617d1862fa46d696c0bd2fba9152f4e8a908c97aad88947?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/Torrekie"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "Torrekie"
+    },
+    {
+        "id": 2510086,
+        "project_id": 415,
+        "action_name": "left",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 333,
+        "target_title": null,
+        "created_at": "2024-11-01T00:05:58.051Z",
+        "author": {
+            "id": 333,
+            "username": "bdejean",
+            "name": "Ben",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://secure.gravatar.com/avatar/34fffa8af1565dfdabc2353ef03de990e4635c88a09433f2828c88e06dbf72fd?s=80&d=identicon",
+            "web_url": "https://gitlab.gnome.org/bdejean"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "bdejean"
+    }
+]

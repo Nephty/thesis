@@ -1,0 +1,132 @@
+[
+    {
+        "id": 2513561,
+        "project_id": 1795,
+        "action_name": "commented on",
+        "target_id": 2265913,
+        "target_iid": 2265913,
+        "target_type": "Note",
+        "author_id": 75,
+        "target_title": "Add project avatar",
+        "created_at": "2024-11-04T15:41:12.512Z",
+        "note": {
+            "id": 2265913,
+            "type": null,
+            "body": "Done, and thanks!",
+            "attachment": null,
+            "author": {
+                "id": 75,
+                "username": "chergert",
+                "name": "Christian Hergert",
+                "state": "active",
+                "locked": false,
+                "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/75/avatar.png",
+                "web_url": "https://gitlab.gnome.org/chergert"
+            },
+            "created_at": "2024-11-04T15:41:11.865Z",
+            "updated_at": "2024-11-04T15:41:11.865Z",
+            "system": false,
+            "noteable_id": 101275,
+            "noteable_type": "MergeRequest",
+            "project_id": 1795,
+            "resolvable": false,
+            "confidential": false,
+            "internal": false,
+            "imported": false,
+            "imported_from": "none",
+            "noteable_iid": 18,
+            "commands_changes": {}
+        },
+        "author": {
+            "id": 75,
+            "username": "chergert",
+            "name": "Christian Hergert",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/75/avatar.png",
+            "web_url": "https://gitlab.gnome.org/chergert"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "chergert"
+    },
+    {
+        "id": 2513560,
+        "project_id": 1795,
+        "action_name": "closed",
+        "target_id": 101275,
+        "target_iid": 18,
+        "target_type": "MergeRequest",
+        "author_id": 75,
+        "target_title": "Add project avatar",
+        "created_at": "2024-11-04T15:41:12.206Z",
+        "author": {
+            "id": 75,
+            "username": "chergert",
+            "name": "Christian Hergert",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/75/avatar.png",
+            "web_url": "https://gitlab.gnome.org/chergert"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "chergert"
+    },
+    {
+        "id": 2513405,
+        "project_id": 1795,
+        "action_name": "opened",
+        "target_id": 101275,
+        "target_iid": 18,
+        "target_type": "MergeRequest",
+        "author_id": 468,
+        "target_title": "Add project avatar",
+        "created_at": "2024-11-04T13:58:53.565Z",
+        "author": {
+            "id": 468,
+            "username": "sophie-h",
+            "name": "Sophie Herold",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/468/avatar.png",
+            "web_url": "https://gitlab.gnome.org/sophie-h"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "author_username": "sophie-h"
+    },
+    {
+        "id": 2513404,
+        "project_id": 1795,
+        "action_name": "pushed new",
+        "target_id": null,
+        "target_iid": null,
+        "target_type": null,
+        "author_id": 468,
+        "target_title": null,
+        "created_at": "2024-11-04T13:58:47.459Z",
+        "author": {
+            "id": 468,
+            "username": "sophie-h",
+            "name": "Sophie Herold",
+            "state": "active",
+            "locked": false,
+            "avatar_url": "https://gitlab.gnome.org/uploads/-/system/user/avatar/468/avatar.png",
+            "web_url": "https://gitlab.gnome.org/sophie-h"
+        },
+        "imported": false,
+        "imported_from": "none",
+        "push_data": {
+            "commit_count": 1,
+            "action": "created",
+            "ref_type": "branch",
+            "commit_from": null,
+            "commit_to": "2f08fffb858c29cb0b16dd4c0731127d207dadd4",
+            "ref": "wip/sophie-h/project-avatar",
+            "commit_title": "Add project avatar",
+            "ref_count": null
+        },
+        "author_username": "sophie-h"
+    }
+]
